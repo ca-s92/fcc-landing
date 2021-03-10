@@ -20,10 +20,9 @@ li {
   padding: 14px 16px;
 }
 
-img {
-  max-width: 75px;
+#bcleanser {
+  max-width: 20%;
   height: auto;
-  margin: 1%;
 }
 
 h3 {
