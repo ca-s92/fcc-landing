@@ -20,6 +20,12 @@ li {
   padding: 14px 16px;
 }
 
+#header-img {
+  max-width: 75px;
+  height: auto;
+  margin-left: 1em;
+}
+
 #bcleanser {
   max-width: 20%;
   height: auto;
