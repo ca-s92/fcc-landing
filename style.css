@@ -6,6 +6,12 @@ body {
   font-family: "Barlow", sans-serif;
 }
 
+li {
+  font-family: "Cousine", monospace;
+  text-align: center;
+  padding: 14px 16px;
+}
+
 img {
   max-width: 75px;
   height: auto;
