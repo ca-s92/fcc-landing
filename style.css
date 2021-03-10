@@ -27,7 +27,7 @@ li {
 }
 
 #bcleanser {
-  max-width: 20%;
+  max-width: 65%;
   height: auto;
 }
 
@@ -41,5 +41,5 @@ h5 {
 }
 
 #product-container {
-  display: flexbox;
+  display: flex;
 }
