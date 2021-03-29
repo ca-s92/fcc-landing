@@ -49,4 +49,10 @@ h5 {
 
 #product-container {
   display: flex;
+  margin: 2em;
+}
+
+#product-img {
+  display: flex;
+  justify-content: space-evenly;
 }
