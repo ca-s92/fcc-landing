@@ -40,6 +40,10 @@ li {
 
 h2 {
   font-family: "Cousine", monospace;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 0px 0px 14px 10px;
 }
 
 h5 {
@@ -58,8 +62,8 @@ h5 {
 }
 
 #product-info {
-  border: 1px solid #000;
-  /*padding: 15px;*/
+  /*border: 1px solid #000;
+  padding: 15px;*/
 }
 
 #product-title {
