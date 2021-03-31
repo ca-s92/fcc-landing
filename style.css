@@ -5,12 +5,13 @@
 
 body {
   font-family: "Barlow", sans-serif;
-  background-color: #f0e5d5;
+  background-color: #f8f8f8;
 }
 
 nav {
   display: flex;
   align-items: center;
+  position: static;
 }
 
 ul {
