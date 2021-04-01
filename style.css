@@ -12,6 +12,7 @@ nav {
   display: flex;
   align-items: center;
   position: fixed;
+  margin: 10px;
   top: 0;
   width: 100%;
 }
@@ -19,8 +20,6 @@ nav {
 ul {
   display: block;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 li {
