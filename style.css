@@ -47,8 +47,8 @@ h2 {
   font-size: 1.89em;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
-  padding: 0px 0px 14px 10px;
+  /*justify-content: space-evenly;
+  padding: 0px 0px 10px 0px; */
 }
 
 h5 {
