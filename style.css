@@ -56,11 +56,13 @@ h5 {
   font-style: italic;
 }
 
+
 #product-container {
   display: flex;
-  margin: 3em;
-  padding-left: 1.5em;
+/*  margin: 3em;
+  padding-left: 1.5em; */
 }
+
 
 #product-img {
   display: flex;
