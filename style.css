@@ -45,9 +45,9 @@ li {
 h2 {
   font-family: "Cousine", monospace;
   font-size: 1.89em;
-  display: flex;
+  /*display: flex;
   flex-direction: row;
-  /*justify-content: space-evenly;
+  justify-content: space-evenly;
   padding: 0px 0px 10px 0px; */
 }
 
