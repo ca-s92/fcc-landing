@@ -5,6 +5,7 @@
 
 body {
   font-family: "Barlow", sans-serif;
+  font-size: 1em;
   background-color: #f8f8f8;
   margin-top: 5em;
 }
@@ -58,6 +59,7 @@ h5 {
 
 
 #product-container {
+  background-color: #3EB63C;
   display: flex;
 /*  margin: 3em;
   padding-left: 1.5em; */
