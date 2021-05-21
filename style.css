@@ -5,9 +5,10 @@
 
 body {
   font-family: "Barlow", sans-serif;
-  font-size: 1em;
+  font-size: 16px;
+  letter-spacing: -.015em;
   background-color: #f8f8f8;
-  margin-top: 5em;
+  margin-top: 10em;
 }
 
 nav {
@@ -55,7 +56,7 @@ h2 {
 h5 {
   font-family: "Barlow", sans-serif;
   font-style: italic;
-  font-size: 1.125em;
+  font-size: 18px;
 }
 
 
@@ -70,6 +71,11 @@ h5 {
   display: flex;
   justify-content: space-evenly;
 }
+
+#product-description {
+  width: 80%;
+}
+
 /*
 #product-info {
 border: 1px solid #000;
