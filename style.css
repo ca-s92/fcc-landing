@@ -69,15 +69,14 @@ h5 {
 
 
 #product-img {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-#product-description {
-  width: 80%;
+  width: 30%;
 }
 
 /*
+#product-description {
+
+}
+
 #product-info {
 border: 1px solid #000;
   padding: 15px;
