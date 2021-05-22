@@ -64,12 +64,12 @@ h5 {
   background-color: #3EB63C;
   display: flex;
   /*flex-wrap: wrap;*/
-  padding: 3.5em;
+  padding: 3.5em 8em;
 }
 
 
 #product-img {
-  width: 50%;
+  width: 100%;
 }
 
 
