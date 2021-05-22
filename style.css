@@ -63,26 +63,21 @@ h5 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  flex-wrap: wrap;
+  /*flex-wrap: wrap;*/
   padding: 3.5em;
 }
 
 
 #product-img {
-  width: 30%;
+  width: 50%;
 }
 
-/*
-#product-description {
-
-}
 
 #product-info {
-border: 1px solid #000;
-  padding: 15px;
+  
 } 
 
-
+/*
 #product-title {
   display: 
   /*justify-content: flex-start;
