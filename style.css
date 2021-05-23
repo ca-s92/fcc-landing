@@ -40,10 +40,8 @@ li {
 }
 
 #bcleanser {
-  max-width: 65%;
+  max-width: 50%;
   height: auto;
-  display: flex;
-  align-items: stretch;
 }
 
 h2 {
