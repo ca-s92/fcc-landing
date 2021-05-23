@@ -59,19 +59,16 @@ h5 {
   font-size: 18px;
 }
 
-
 #product-container {
   background-color: #3EB63C;
-  display: flex;
-  /*flex-wrap: wrap;*/
+  /*display: flex;
+  flex-wrap: wrap;*/
   padding: 3.5em 8em;
 }
-
 
 #product-img {
   width: 100%;
 }
-
 
 #product-info {
   
