@@ -57,8 +57,8 @@ h5 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  flex-direction: row;
-  /*align-items: stretch;*/
+  flex-direction: ;
+  align-items: ;
   padding: 3.5em 8em;
 }
 
