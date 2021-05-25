@@ -41,8 +41,8 @@ li {
 
 #product-img {
   max-width: 270px;
-  display: flex;
-  justify-content: flex-start;
+  /*display: flex;
+  justify-content: flex-start;*/
 }
 
 h2 {
