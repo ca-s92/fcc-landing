@@ -67,7 +67,8 @@ h5 {
   display: flex;
   flex-direction: ;
   align-items: ;
-  padding: 4em 8em;
+  padding: 8em 8em;
+  margin: 1em;
 }
 
 #product-info {
