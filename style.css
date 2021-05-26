@@ -65,15 +65,15 @@ h5 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  /*justify-content: center;*/
+  padding: 8em;
+  /*display: flex;
   width: 1080px;
-  padding: 4em 8em;
-  margin: auto;
+  padding: 4em 8em;*/
 }
 
 #product-info {
-/*margin: 0em 18em 0em 2em;
-width: 100%;*/
+  width: 50%;
+  margin: 0em 18em 0em 2em;
 } 
 
 button {
