@@ -75,12 +75,13 @@ h5 {
 button {
   background-color: #000;
   color: #fff;
+  padding: 5px;
   border: 1px solid #000000;
   font-family: "Cousine", monospace;
   font-style: bold;
-  font-size: .75em;
+  font-size: 16px;
   transition-duration: 0.4s;
-  width: 160px;
+  width: 140px;
   height: 60px;
 }
 
