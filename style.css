@@ -76,10 +76,12 @@ button {
   background-color: #000;
   color: #fff;
   border: 1px solid #000000;
-  padding: .75em;
   font-family: "Cousine", monospace;
   font-style: bold;
+  font-size: .75em;
   transition-duration: 0.4s;
+  width: 160px;
+  height: 60px;
 }
 
 button:hover {
