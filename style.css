@@ -40,7 +40,7 @@ li {
 }
 
 #product-img {
-  max-width: 270px;
+  max-width: 300px;
   /*display: flex;
   justify-content: flex-start;*/
 }
@@ -65,15 +65,15 @@ h5 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  flex-direction: ;
-  align-items: ;
-  padding: 8em 8em;
-  margin: 1em;
+  /*justify-content: center;*/
+  width: 1080px;
+  padding: 4em 8em;
+  margin: auto;
 }
 
 #product-info {
-margin: 0em 18em 0em 2em;
-width: 100%;
+/*margin: 0em 18em 0em 2em;
+width: 100%;*/
 } 
 
 button {
