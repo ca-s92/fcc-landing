@@ -64,6 +64,15 @@ h5 {
   font-size: .75rem;
 }
 
+h6 {
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: .75rem;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+  margin: 1em 0em 1em 0em;
+}
+
 #product-container {
   background-color: #3EB63C;
   display: flex;
