@@ -35,11 +35,11 @@ li {
 }
 
 #product-type {
-  margin: 0;
+  margin: 0em 0em 1em 0em;
 }
 
 #product-title {
-  margin: 0;
+  margin: 0em 0em 0em 0em;
 }
 
 #bcleanser {
@@ -68,7 +68,7 @@ h5 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  padding: 8em 0em 8em 15em;
+  padding: 4em 0em 4em 15em;
   /*display: flex;
   width: 1080px;
   padding: 4em 8em;*/
@@ -79,6 +79,10 @@ h5 {
   flex-direction: column;
   margin: 0em 10em 0em 5em;
 } 
+
+#product-description {
+  margin: 1.5em 0em 2em 0em;
+}
 
 button {
   background-color: #000;
