@@ -74,12 +74,12 @@ h6 {
 
 #product-container {
   background-color: #3EB63C;
+  /*margin-left: auto;
+  margin-right: auto;*/
   display: flex;
   flex-direction: row;
-  padding: 4em 0em 4em 15em;
-  /*display: flex;
-  width: 1080px;
-  padding: 4em 8em;*/
+  align-self: center;
+  padding: 4em 0em 4em 10em;
 }
 
 #product-info {
