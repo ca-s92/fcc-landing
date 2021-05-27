@@ -43,13 +43,13 @@ li {
 
 #bcleanser {
   max-width: 100%;
-  height: auto;
+  /*height: auto;*/
 }
 
-#product-img {
-  /*display: flex;
-  justify-content: flex-start;*/
-}
+/*#product-img {
+  display: flex;
+  justify-content: flex-start;
+}*/
 
 h2 {
   font-family: "Cousine", monospace;
