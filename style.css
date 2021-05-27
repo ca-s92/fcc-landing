@@ -34,6 +34,14 @@ li {
   margin-left: .75em;
 }
 
+#product-type {
+  margin: 0;
+}
+
+#product-title {
+  margin: 0;
+}
+
 #bcleanser {
   max-width: 100%;
   height: auto;
