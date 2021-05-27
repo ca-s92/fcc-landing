@@ -86,8 +86,9 @@ h6 {
 #product-info {
   display: flex;
   flex-direction: column;
-  margin: 0em 10em 0em 5em;
-  line-height: ;
+  justify-content: flex-start;
+  /*margin: 0em 15em 0em 5em;
+  line-height: ;*/
 } 
 
 #product-description {
