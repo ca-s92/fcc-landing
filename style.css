@@ -39,7 +39,7 @@ li {
 }
 
 #product-title {
-  margin: 0em 0em 0em 0em;
+  margin: .25em 0em 0em 0em;
 }
 
 #bcleanser {
@@ -81,7 +81,7 @@ h5 {
 } 
 
 #product-description {
-  margin: 1.5em 0em 2em 0em;
+  margin: 1.5em 2.5em 2em 0em;
 }
 
 button {
