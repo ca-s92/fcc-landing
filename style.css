@@ -114,3 +114,8 @@ button:hover {
   color: #000;
   font-style: bold;
 }
+
+#vid {
+  margin: auto;
+  width: 50%;
+}
