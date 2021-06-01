@@ -129,3 +129,14 @@ footer {
   padding: 2em;
   font-family: "Cousine", monospace;
 }
+
+input#email {
+  background-color: #000;
+  color: #fff;
+  width: 300px;
+  height: 40px;
+  border: none;
+  border-bottom: 2px solid #fff;
+  font-family: "Barlow", sans-serif;
+  font-size: .75rem;
+}
