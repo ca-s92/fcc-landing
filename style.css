@@ -75,8 +75,9 @@ h6 {
 #product-container {
   background-color: #3EB63C;
   display: flex;
-  justify-content: center;
-  padding: 4em 0em 4em 10em;
+  flex-direction: row;
+  align-items: center;
+  /*padding: 4em 0em 4em 10em;*/
 }
 
 #product-info {
