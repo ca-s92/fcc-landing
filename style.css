@@ -5,6 +5,43 @@ body {
   margin-top: 10em;
 }
 
+@media (max-width: 768px)
+{
+  body {
+    font-family: "Barlow", sans-serif;
+    font-size: .55rem;
+    line-height: .75rem;
+  }
+
+  nav {
+    padding: 5px 10px;
+  }
+
+  h2 {
+    font-family: "Cousine", monospace;
+    font-weight: normal;
+    font-size: 1.25rem;
+    line-height: 2.5rem;
+  }
+  
+  h5 {
+    font-family: "Barlow", sans-serif;
+    font-style: italic;
+    font-size: .25rem;
+  }
+  
+  h6 {
+    font-family: "Barlow", sans-serif;
+    font-style: normal;
+    font-size: .45rem;
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+    margin: 0em 0em;
+  }
+  }
+
+}
+
 nav {
   background-color: #f8f8f8;
   display: flex;
