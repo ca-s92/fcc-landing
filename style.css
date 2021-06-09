@@ -20,8 +20,8 @@ body {
   h2 {
     font-family: "Cousine", monospace;
     font-weight: normal;
-    font-size: 1.25rem;
-    line-height: 2.5rem;
+    font-size: .75rem;
+    line-height: 2rem;
   }
   
   h5 {
@@ -40,7 +40,6 @@ body {
   }
   }
 
-}
 
 nav {
   background-color: #f8f8f8;
