@@ -73,7 +73,12 @@ li {
   background-color: #3EB63C;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+  /*justify-content: center; 
+  width: 100%;
+  margin: 0 auto; */
 }
 
 #product-type {
@@ -99,9 +104,8 @@ li {
   /*background-color: #3EB63C;*/
   display: flex;
   flex-direction: row;
-  width: 100%;
-  margin: 0 auto;
-  /*padding: 4em 0em 4em 10em;*/
+  /*margin: 0 auto;
+  padding: 4em 0em 4em 10em;*/
 }
 
 h2 {
