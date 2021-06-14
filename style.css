@@ -71,11 +71,6 @@ li {
 
 #product {
   background-color: #3EB63C;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: 100%;
-  margin: 0 auto;
   /*justify-content: center; 
   width: 100%;
   margin: 0 auto; */
@@ -104,6 +99,9 @@ li {
   /*background-color: #3EB63C;*/
   display: flex;
   flex-direction: row;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
   /*margin: 0 auto;
   padding: 4em 0em 4em 10em;*/
 }
