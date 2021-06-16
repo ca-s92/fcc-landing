@@ -130,7 +130,7 @@ h6 {
 #product-info {
   display: flex;
   flex-direction: column;
-  padding: 0em 4em;
+  padding: 0em 4.5em;
   /*padding: .5em 20em 0em 5em;
   margin: 0em 15em 0em 5em;
   line-height: ;*/
@@ -151,7 +151,7 @@ button {
   transition-duration: 0.4s;
   width: 140px;
   height: 60px;
-  margin-bottom: 2.5em;
+  margin-bottom: 1.5em;
 }
 
 button:hover {
