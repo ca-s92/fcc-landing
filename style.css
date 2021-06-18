@@ -72,8 +72,8 @@ li {
 #product {
   background-color: #3EB63C;
   display: flex;
-  /*padding: 2em;
-  justify-content: center; 
+  padding: 4em 0em;
+  /*justify-content: center; 
   width: 100%;
   margin: 0 auto; */
 }
