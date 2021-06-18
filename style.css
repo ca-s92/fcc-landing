@@ -134,6 +134,7 @@ h6 {
   display: flex;
   flex-direction: column;
   max-width: 500px;
+  padding-left: 3em;
   /*padding: 0em 4.5em; 
   padding: .5em 20em 0em 5em;
   margin: 0em 15em 0em 5em;
