@@ -97,14 +97,12 @@ li {
   flex: 0 0 300px;
 }
 
-
 #product-container {
   /*background-color: #3EB63C;*/
   display: flex;
   flex: 0 .5 50%;
   flex-direction: row;
   justify-content: center;
-  max-width: 100%;
   margin: 0 auto; /* centers container */
 }
 
@@ -133,7 +131,6 @@ h6 {
 #product-info {
   display: flex;
   flex-direction: column;
-  width: 500px;
   margin-left: 3em;
 } 
 
