@@ -100,7 +100,7 @@ li {
 #product-container {
   /*background-color: #3EB63C;*/
   display: flex;
-  flex: 0 .5 50%;
+  flex: 0 .5 800px;
   flex-direction: row;
   justify-content: center;
   margin: 0 auto; /* centers container */
