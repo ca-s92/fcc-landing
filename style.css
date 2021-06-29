@@ -123,6 +123,7 @@ h6 {
   font-style: normal;
   font-size: .75rem;
   border-bottom: 1px solid #000;
+  margin: 0;
 }
 
 
@@ -151,11 +152,6 @@ button:hover {
   background-color: #fff;
   color: #000;
   font-style: bold;
-}
-
-#prd-extras {
-  /*padding-bottom: .25em;*/
-  margin-bottom: 0em;
 }
 
 #vid {
