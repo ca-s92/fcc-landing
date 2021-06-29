@@ -38,8 +38,29 @@ body {
     padding-bottom: 5px;
     margin: 0em 0em;
   }
+
+  #product {
+    border: #000 2px solid;
   }
 
+  #product-container {
+    background-color: ;
+    display: flex;
+    width: 80%;
+  }
+
+  button {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    border: 1px solid #000000;
+    font-family: "Cousine", monospace;
+    font-style: bold;
+    font-size: 14px;
+    width: 100px;
+    height: 42px;
+  }
+}
 
 nav {
   background-color: #f8f8f8;
